@@ -6,6 +6,9 @@ This model is an ELECTRA-based transformer model fine-tuned for sentiment classi
 ### Model Architecture
 The model uses the `ElectraForSequenceClassification` architecture from Hugging Face's Transformers library, fine-tuned on a labeled dataset of Czech Facebook comments.
 
+### Business Details
+Please check the `BusinessClarification.MD` file
+
 ## How to Use
 Below are instructions on how to use this model in Python using the Hugging Face Transformers library.
 
