@@ -68,5 +68,5 @@ test_loaded_model(text)
 Submission by Serdar A.
 
 Thx to 
-`Marie Mejzlíková | Marek Rathouský  | Boris Pavelec | 
-Daniela Píšková`
+`Marie M | Marek R  | Boris P | 
+Daniela P`
