@@ -62,3 +62,11 @@ test_loaded_model(text)
     - lowest_loss : Model that used in the prediction, which has lower loss value compared to other models
     - sixteen_epoch : Experimental model, tested with different traning arguments
     - outputs : Just a necessary folder for evaluation, contains nothing
+
+## Note
+
+Submission by Serdar A.
+
+Thx to 
+`Marie Mejzlíková | Marek Rathouský  | Boris Pavelec | 
+Daniela Píšková`
