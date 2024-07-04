@@ -66,7 +66,3 @@ test_loaded_model(text)
 ## Note
 
 Submission by Serdar A.
-
-Thx to 
-`Marie M | Marek R  | Boris P | 
-Daniela P`
